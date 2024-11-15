@@ -1,5 +1,4 @@
 # XRP2024
-[![Demo video]()](./demo.mp4)
 
 ### Description
 
